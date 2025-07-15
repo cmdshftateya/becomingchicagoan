@@ -1,0 +1,26 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if you use npm/yarn for any front-end tooling)
+node_modules/
+
+# Logs and temp files
+*.log
+tmp/
+temp/
+
+# Environment/config files with secrets (if any)
+.env
+
