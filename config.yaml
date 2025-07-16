@@ -1,5 +1,5 @@
 baseURL: "https://becomingchicagoan.com/"
-title: Becoming Chicagoan
+title: "Becoming Chicagoan 🌆"
 pagination:
   pagerSize: 5
 theme: PaperMod
@@ -124,10 +124,6 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: becomingchicagoan
-      name: becomingchicagoan.com
-      url: https://becomingchicagoan.com
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
