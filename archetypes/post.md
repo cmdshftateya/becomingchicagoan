@@ -28,10 +28,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/cmdshftateya/becomingchicagoan/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 I’m becoming Chicagoan. You might wonder what that means. It means I am going to become as local as they can get. What’s I-290? You mean the Dan Ryan? Who calls it that dumb number code? Deep dish? Deep dish is for suckers. Real Chicagoans eat tavern-style pizza (this is gibberish).
 
