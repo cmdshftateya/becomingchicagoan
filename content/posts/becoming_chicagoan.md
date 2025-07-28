@@ -4,7 +4,7 @@ description: "Welcome to my newest blog."
 date: 2025-07-14T19:59:16-05:00
 # author: ["Me", "You"] # multiple authors
 author: "Abdulrahman Ateya"
-draft: true
+draft: false
 
 
 # weight: 1
